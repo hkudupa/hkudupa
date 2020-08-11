@@ -31,11 +31,9 @@
 
 <br />
 <br />
+<hr />
 
----
-
-<img align="left" alt="My Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hkudupa&show_icons=true&hide_border=true&count_private=true
-" />
+![My github stats](https://github-readme-stats.vercel.app/api?username=hkudupa&show_icons=true&theme=buefy&include_all_commits=true&count_private=true&hide=stars,contribs)
 
 [medium]: https://medium.com/@hkudupa
 [linkedin]: https://www.linkedin.com/in/kedar-udupa-0a600ba7/

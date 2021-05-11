@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a Angular project
 - 🌱 I’m currently learning everything 🤣
 - 💬 Ask me about Angular, RxJs, JavaScript, Computer-hardware or anything else
-- 🥅 2020 Goals: Explore more about JavaScript and RxJs
+- 🥅 2021 Goals: Explore more about JavaScript, ReactJs and RxJs
 - ⚡ Fun fact: I love listening to music, cycling and DIY projects
 - 😄 Pronouns: he/him
 
